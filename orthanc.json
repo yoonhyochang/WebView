@@ -1,0 +1,11 @@
+{
+    "Name": "MyOrthancServer",
+    "StorageDirectory": "C:\\actual\\path\\to\\storage",
+    "IndexDirectory": "C:\\actual\\path\\to\\index",
+    "DicomAet": "MYAET",
+    "DicomPort": 4242,
+    "AuthenticationEnabled": true,
+    "RegisteredUsers": {
+        "username": "password"
+    }
+}
